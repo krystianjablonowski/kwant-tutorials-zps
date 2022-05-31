@@ -17,8 +17,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "About Us",
+          "content": "These tutorials were made by . Paweł Sidorczak | Tomek Białecki | Krystian Jabłonowski | Jakub Korsak | . from the Faculty of Physics, University of Warsaw. .",
           "url": "https://korsakjakub.github.io/fastpages-test/about/",
           "relUrl": "/about/",
           "date": ""
