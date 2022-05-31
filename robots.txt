@@ -1,0 +1,1 @@
+Sitemap: https://korsakjakub.github.io/fastpages-test/sitemap.xml
