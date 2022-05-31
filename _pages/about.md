@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About Me
+title: About Us
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+These tutorials were made by
+- Paweł Sidorczak
+- Tomek Białecki
+- Krystian Jabłonowski
+- Jakub Korsak
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+from the Faculty of Physics, University of Warsaw.
