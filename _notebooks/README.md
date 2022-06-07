@@ -9,3 +9,10 @@ You must save your notebook with the naming convention `YYYY-MM-DD-*.ipynb`.  Ex
 ```
 
 See [Writing Blog Posts With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter) for more details.
+
+# Recommended workflow for quick changes of blog-posts
+
+1. Go to the post's webpage
+2. Open in Google Collab
+3. Make changes
+4. Export to github. Here, remember to place it in the same directory with the same filename, so it gets overwritten.
